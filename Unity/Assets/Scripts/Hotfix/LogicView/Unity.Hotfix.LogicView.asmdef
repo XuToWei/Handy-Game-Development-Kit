@@ -1,0 +1,23 @@
+{
+    "name": "Unity.Hotfix.LogicView",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.Mono",
+        "Unity.ThirdParty",
+        "Unity.Hotfix.Model",
+        "Unity.Hotfix.Logic",
+        "Unity.Hotfix.ModelView",
+        "Unity.Hotfix.Framework"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

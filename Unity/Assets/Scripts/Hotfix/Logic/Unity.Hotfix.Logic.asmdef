@@ -1,0 +1,23 @@
+{
+    "name": "Unity.Hotfix.Logic",
+    "rootNamespace": "ET",
+    "references": [
+        "Unity.ThirdParty",
+        "Unity.Mono",
+        "UnityGameFramework.Runtime",
+        "GameFramework",
+        "Unity.Hotfix.Model",
+        "Unity.Hotfix.Framework"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
